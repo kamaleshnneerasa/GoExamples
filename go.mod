@@ -1,3 +1,3 @@
-module github.com/kamaleshnneerasa/GoExamples/handlers
+module github.com/kamaleshnneerasa/GoExamples
 
 go 1.16
